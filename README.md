@@ -21,6 +21,7 @@
 ## <a name="tools"> </a>Tools
 
 ## <a name="websites"> </a>Websites
+- [Jamaica Decides](https://jamaicadecides.com) - An election tracker for the 2020 General Elections that provided real time updates. **By [@codewhare](https://codewhare.com)**
 
 ## <a name="apps"> </a>Apps
 
