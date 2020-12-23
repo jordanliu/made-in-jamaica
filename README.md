@@ -8,7 +8,7 @@
 
 <div align="center">
   
-[![made in jamaica](https://img.shields.io/badge/MADE%20IN-JAMAICA-green?style=for-the-badge)](https://github.com/jordanliu/made-in-jamaica/) [![submit project](https://img.shields.io/badge/SUBMIT-PROJECT-gold?style=for-the-badge)](https://github.com/jordanliu/made-in-jamaica/)
+[![made in jamaica](https://img.shields.io/badge/MADE%20IN-JAMAICA-green?style=for-the-badge)](https://github.com/jordanliu/made-in-jamaica/) [![submit project](https://img.shields.io/badge/SUBMIT-PROJECT-gold?style=for-the-badge)](https://github.com/jordanliu/made-in-jamaica/contributing.md)
  
  </div>
  
