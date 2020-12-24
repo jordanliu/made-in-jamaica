@@ -11,7 +11,7 @@
  </div>
  
 <p align="center">
-  <a href="#tools">Tools</a> |  <a href="#websites">Websites</a> | <a href="#apps">Apps</a> | <a href="#other">Other</a> 
+  <a href="#tools">Tools</a> |  <a href="#websites">Websites</a> | <a href="#apps">Apps</a> | <a href="#games">Games</a> | <a href="#other">Other</a> 
 </p>
 
 
@@ -22,5 +22,7 @@
 - [Jamaica Decides](https://jamaicadecides.com) - An election tracker for the 2020 General Elections that provided real time updates. **By [@codewhare](https://codewhare.com)**
 
 ## <a name="apps"> </a>Apps
+
+## <a name="games"> </a>Games
 
 ## <a name="other"> </a>Other
