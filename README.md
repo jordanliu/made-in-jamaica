@@ -24,6 +24,7 @@
 - [Jamaica Decides](https://jamaicadecides.com) - An election tracker for the 2020 General Elections that provided real time updates. **By [@codewhare](https://codewhare.com)**
 
 ## <a name="apps"> </a>Apps
+- [CXC Study Bank](https://play.google.com/store/apps/details?id=com.cxcstudybank.android) - Study Bank is a repository of FREE CSEC and CAPE resources and past papers. Helping students get a headstart to ACE their CSEC/CAPE exams. **By [@shawn-grant](https://github.com/shawn-grant)**
 
 ## <a name="games"> </a>Games
 
