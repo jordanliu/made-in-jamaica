@@ -17,6 +17,8 @@
 
 
 ## <a name="tools"> </a>Tools
+- [Judas](https://github.com/JonCooperWorks/judas) - Judas is a pluggable phishing proxy. It can clone any website passed to it using command line flags, and you can extend it with Go plugins for fun and (legal) profit. **By [@JonCooperWorks](https://github.com/JonCooperWorks)**
+
 
 ## <a name="websites"> </a>Websites
 - [Jamaica Decides](https://jamaicadecides.com) - An election tracker for the 2020 General Elections that provided real time updates. **By [@codewhare](https://codewhare.com)**
