@@ -5,13 +5,13 @@
 <p align="center">A curation of tools and projects built by Jamaican developers :fire:</p>
 
 <div align="center">
-  
+
 [![made in jamaica](https://img.shields.io/badge/MADE%20IN-JAMAICA-green?style=for-the-badge)](https://github.com/jordanliu/made-in-jamaica/) [![submit project](https://img.shields.io/badge/SUBMIT-PROJECT-gold?style=for-the-badge)](https://github.com/jordanliu/made-in-jamaica/blob/main/CONTRIBUTING.md)
- 
+
  </div>
- 
+
 <p align="center">
-  <a href="#tools">Tools</a> |  <a href="#websites">Websites</a> | <a href="#apps">Apps</a> | <a href="#games">Games</a> | <a href="#other">Other</a> 
+  <a href="#tools">Tools</a> |  <a href="#websites">Websites</a> | <a href="#apps">Apps</a> | <a href="#games">Games</a> | <a href="#other">Other</a>
 </p>
 
 
@@ -19,6 +19,7 @@
 ## <a name="tools"> </a>Tools
 - [Judas](https://github.com/JonCooperWorks/judas) - Judas is a pluggable phishing proxy. It can clone any website passed to it using command line flags, and you can extend it with Go plugins for fun and (legal) profit. **By [@JonCooperWorks](https://github.com/JonCooperWorks)**
 
+- [Brisko WordPress Theme](https://github.com/devuri/brisko) - Brisko is a beautifully simple and lightweight starter  WordPress theme. Its optimized for speed and WordPress page builders like Elementor. **By [@devuri](https://github.com/devuri)**
 
 ## <a name="websites"> </a>Websites
 - [Jamaica Decides](https://jamaicadecides.com) - An election tracker for the 2020 General Elections that provided real time updates. **By [@codewhare](https://codewhare.com)**
