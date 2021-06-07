@@ -27,6 +27,11 @@
 ## <a name="apps"> </a>Apps
 - [CXC Study Bank](https://play.google.com/store/apps/details?id=com.cxcstudybank.android) - Study Bank is a repository of FREE CSEC and CAPE resources and past papers. Helping students get a headstart to ACE their CSEC/CAPE exams. **By [@shawn-grant](https://github.com/shawn-grant)**
 
+- SoundWall: Sound Effects & Memes - SoundWall is a fun Sound Effects and Memes app. **By [@Rift3000](https://github.com/Rift3000)**
+<br/>
+[![SoundWall iOS](https://img.shields.io/badge/-iOS-blue?style=for-the-badge&logo=apple)](https://apps.apple.com/pk/app/soundwall-sound-effects/id1539545577)
+[![SoundWall Android](https://img.shields.io/badge/-Android-darkgreen?style=for-the-badge&logo=android)](https://play.google.com/store/apps/details?id=com.dreamwall.soundwall)
+
 ## <a name="games"> </a>Games
 
 ## <a name="other"> </a>Other
