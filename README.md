@@ -23,6 +23,9 @@
 
 ## <a name="websites"> </a>Websites
 - [Jamaica Decides](https://jamaicadecides.com) - An election tracker for the 2020 General Elections that provided real time updates. **By [@codewhare](https://codewhare.com)**
+- [Herbert Morrison Technical High School](https://herbertmorrisontechnicalhighschool.edu.jm/) - Modern website created for the Herbert Morrison Technical High School to facilitate school proceedings, students and involved parties through the use of technology. **By [@DevJasonClarke](https://www.devjasonclarke.com/)**
+- [Youth For Development Network](https://yfdn.org/) - Website developed for YFDN. YFDN is a registered non-profit organization that empowers marginalized youth by preparing them for employment, entrepreneurship and adulthood. **By [@DevJasonClarke](https://www.devjasonclarke.com/)**
+- [Real Estate Ja](https://real-estate-ja-demo.devjasonclarke.com/) - Website developed to demo and show proof of concept for a fullstack user-driven real estate platform based in Jamaican. **By [@DevJasonClarke](https://www.devjasonclarke.com/)**
 
 ## <a name="apps"> </a>Apps
 - [CXC Study Bank](https://play.google.com/store/apps/details?id=com.cxcstudybank.android) - Study Bank is a repository of FREE CSEC and CAPE resources and past papers. Helping students get a headstart to ACE their CSEC/CAPE exams. **By [@shawn-grant](https://github.com/shawn-grant)**
