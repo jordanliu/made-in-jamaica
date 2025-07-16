@@ -34,6 +34,10 @@
 | Jamaica Decides | Real-time election tracker for the 2020 Jamaican General Elections. | [Website](https://jamaicadecides.com)                                                                                                                        | **[@codewhare](https://codewhare.com)**            |
 | CXC Study Bank  | Free CSEC and CAPE resources and past papers for student success.   | [Android](https://play.google.com/store/apps/details?id=com.cxcstudybank.android)                                                                            | **[@shawn-grant](https://github.com/shawn-grant)** |
 | SoundWall       | A fun soundboard app featuring sound effects and memes.             | [iOS](https://apps.apple.com/pk/app/soundwall-sound-effects/id1539545577) / [Android](https://play.google.com/store/apps/details?id=com.dreamwall.soundwall) | **[@Rift3000](https://github.com/Rift3000)**       |
+| Rentelio | SaaS platform for property management and long-term rentals. Think AirBnB but for long-term stays. | [Website](https://rentelio.io) | **[@sammarieobrown](https://github.com/sammarieobrown)** / **[@RaheemWilson](https://github.com/RaheemWilson)** |
+| EveryDolla  | AI-powered personal finance app that tracks your spending automatically in real-time, budgets, and saves towards your goals. <br>**Coming to App Store soon!**  | [Website](https://everydolla.tech) | **[@sammarieobrown](https://github.com/sammarieobrown)** / **[@RaheemWilson](https://github.com/RaheemWilson)** |
+
+
 
 ---
 
