@@ -36,7 +36,7 @@
 | SoundWall       | A fun soundboard app featuring sound effects and memes.             | [iOS](https://apps.apple.com/pk/app/soundwall-sound-effects/id1539545577) / [Android](https://play.google.com/store/apps/details?id=com.dreamwall.soundwall) | **[@Rift3000](https://github.com/Rift3000)**       |
 | Rentelio | SaaS platform for property management and long-term rentals. Think AirBnB but for long-term stays. | [Website](https://rentelio.io) | **[@sammarieobrown](https://github.com/sammarieobrown)** / **[@RaheemWilson](https://github.com/RaheemWilson)** |
 | EveryDolla  | AI-powered personal finance app that tracks your spending automatically in real-time, budgets, and saves towards your goals. <br>**Coming to App Store soon!**  | [Website](https://everydolla.tech) | **[@sammarieobrown](https://github.com/sammarieobrown)** / **[@RaheemWilson](https://github.com/RaheemWilson)** |
-
+| Docsurf | AI document editor to create, edit, and share essays and research papers.   | [Website](https://docsurf.ai)                                         | **[@raheem81kg](https://github.com/raheem81kg)**     |
 
 
 ---
