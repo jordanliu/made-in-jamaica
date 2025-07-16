@@ -25,6 +25,8 @@
 | themecn                | A real-time theme generator for shadcn/ui. Create and preview beautiful themes instantly.                                     | [GitHub](https://github.com/jordanliu/themecn) / [Website](https://themecn.dev) | **[@jordanliu](https://github.com/jordanliu)**           |
 | Spragga                | A Rust implementation of the SprayList data structure - a scalable concurrent priority queue with relaxed ordering semantics. | [GitHub](https://github.com/maschad/spragga)                                    | **[@maschad](https://github.com/maschad)**               |
 
+| Docsurf | AI document editor to create, edit, and share essays and research papers.   | [Website](https://docsurf.ai)                                         | **[@raheem81kg](https://github.com/raheem81kg)**     |
+
 ---
 
 ## Applications
@@ -37,6 +39,7 @@
 | Rentelio | SaaS platform for property management and long-term rentals. Think AirBnB but for long-term stays. | [Website](https://rentelio.io) | **[@sammarieobrown](https://github.com/sammarieobrown)** / **[@RaheemWilson](https://github.com/RaheemWilson)** |
 | EveryDolla  | AI-powered personal finance app that tracks your spending automatically in real-time, budgets, and saves towards your goals. <br>**Coming to App Store soon!**  | [Website](https://everydolla.tech) | **[@sammarieobrown](https://github.com/sammarieobrown)** / **[@RaheemWilson](https://github.com/RaheemWilson)** |
 
+| Docsurf | AI document editor to create, edit, and share essays and research papers.   | [Website](https://docsurf.ai)                                         | **[@raheem81kg](https://github.com/raheem81kg)**     |
 
 
 ---
