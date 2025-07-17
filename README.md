@@ -36,6 +36,9 @@
 | SoundWall       | A fun soundboard app featuring sound effects and memes.             | [iOS](https://apps.apple.com/pk/app/soundwall-sound-effects/id1539545577) / [Android](https://play.google.com/store/apps/details?id=com.dreamwall.soundwall) | **[@Rift3000](https://github.com/Rift3000)**       |
 | Rentelio | SaaS platform for property management and long-term rentals. Think AirBnB but for long-term stays. | [Website](https://rentelio.io) | **[@sammarieobrown](https://github.com/sammarieobrown)** / **[@RaheemWilson](https://github.com/RaheemWilson)** |
 | EveryDolla  | AI-powered personal finance app that tracks your spending automatically in real-time, budgets, and saves towards your goals. <br>**Coming to App Store soon!**  | [Website](https://everydolla.tech) | **[@sammarieobrown](https://github.com/sammarieobrown)** / **[@RaheemWilson](https://github.com/RaheemWilson)** |
+| Drive Guider  | A safety-focused travel app that provide crash hotspot automatic detection, send/receive real time panic alerts, live movement tracking/sharing on google maps by emergency contacts as you move in the real world and helping users identify trusted taxi drivers through community vetting. <br>**Coming to Apple Store soon!**  | [Android](https://play.google.com/store/apps/details?id=com.drive.guider) | **[@LuigiWoodhouse](https://github.com/LuigiWoodhouse)**
+| PetAniTopia  | A group dedicated to the love and care of pets through creating pet adoption & sitting appointments as well as providing an easy to use platform where pet lovers can place orders for accessories.   | [Website](https://petanitopia.com) | **[@LuigiWoodhouse](https://github.com/LuigiWoodhouse)**
+| Roleplay Delight  | An ecommerce platform dedicated to providing cosmetics, fashion and beauty products via placing orders   | [Website](https://roleplaydelight.com) | **[@LuigiWoodhouse](https://github.com/LuigiWoodhouse)**
 
 
 
