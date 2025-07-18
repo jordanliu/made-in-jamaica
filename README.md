@@ -38,6 +38,7 @@
 | EveryDolla  | AI-powered personal finance app that tracks your spending automatically in real-time, budgets, and saves towards your goals. | [Website](https://everydolla.tech) | **[@sammarieobrown](https://github.com/sammarieobrown)** / **[@RaheemWilson](https://github.com/RaheemWilson)** |
 | Drive Guider  | A safety-focused travel app that provide crash hotspot automatic detection, send/receive real time panic alerts, live movement tracking/sharing on google maps by emergency contacts as you move in the real world and helping users identify trusted taxi drivers through community vetting. | [Android](https://play.google.com/store/apps/details?id=com.drive.guider) | **[@LuigiWoodhouse](https://github.com/LuigiWoodhouse)**
 | Docsurf | AI document editor to create, edit, and share essays and research papers.   | [Website](https://docsurf.ai)                                         | **[@raheem81kg](https://github.com/raheem81kg)**     |
+| LookYah | Create and share expressive, stylized messages to your chats, or social media, wether it's a cute message, a burning question, an announcement or just for laughs. | [Website](https://lookyah.web.app) | **[@shawn-grant](https://github.com/shawn-grant)** |
 
 
 ---
