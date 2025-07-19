@@ -39,6 +39,9 @@
 | Drive Guider  | A safety-focused travel app that provide crash hotspot automatic detection, send/receive real time panic alerts, live movement tracking/sharing on google maps by emergency contacts as you move in the real world and helping users identify trusted taxi drivers through community vetting. | [Android](https://play.google.com/store/apps/details?id=com.drive.guider) | **[@LuigiWoodhouse](https://github.com/LuigiWoodhouse)**
 | Docsurf | AI document editor to create, edit, and share essays and research papers.   | [Website](https://docsurf.ai)                                         | **[@raheem81kg](https://github.com/raheem81kg)**     |
 | LookYah | Create and share expressive, stylized messages to your chats, or social media, wether it's a cute message, a burning question, an announcement or just for laughs. | [Website](https://lookyah.web.app) | **[@shawn-grant](https://github.com/shawn-grant)** |
+| Gas Watch | Get weekly gas price updates every Wednesday, straight to your device | [iOS](https://apps.apple.com/us/app/gas-watch/id6503622667) / [Android](https://play.google.com/store/apps/details?id=dev.romaine.gas_watch)| **[@romaine877](https://github.com/romaine877)** |
+| Currency Watch | A mobile app  to track foreign exchange rates in Jamaica. It compares buy/sell rates from local banks and forex traders, highlights the best deals, calculators for currency conversions, loans and mortgages. | [iOS](https://apps.apple.com/us/app/currency-watch-forex-rates/id6744514824) / [Android](https://play.google.com/store/apps/details?id=dev.romaine.currencywatch) | **[@romaine877](https://github.com/romaine877)** |
+
 
 
 ---
