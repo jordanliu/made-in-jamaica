@@ -43,6 +43,7 @@
 | Currency Watch | A mobile app  to track foreign exchange rates in Jamaica. It compares buy/sell rates from local banks and forex traders, highlights the best deals, calculators for currency conversions, loans and mortgages. | [iOS](https://apps.apple.com/us/app/currency-watch-forex-rates/id6744514824) / [Android](https://play.google.com/store/apps/details?id=dev.romaine.currencywatch) | **[@romaine877](https://github.com/romaine877)** |
 | Listja | Jamaica's newest listing platform for properties, vehicles, events, jobs, and more. | [Website](https://listja.com/) | **[@roshaneforde](https://github.com/roshaneforde)** |
 | 1Biz App | The all-in-one business toolkit built in Jamaica to power inventory, sales, deliveries, analytics and invoicing across the Caribbean. | [Website](https://1biz.app/) / [iOS](https://apps.apple.com/us/app/1biz-app/id6748782112) / [Android](https://play.google.com/store/apps/details?id=com.goshowfa.businessapp) | **[@jrolan-hall](https://github.com/jrolan-hall)** |
+| Joyful AI Journal | AI-powered journal app that supports mental well-being through personalized insights, emotion recognition, and CBT-based reflections, helping users navigate life's challenges with daily motivation and support. | [Website](https://www.getjoyfulapp.com/) | **[@jd-alexander](https://github.com/jd-alexander)** |
 
 
 
