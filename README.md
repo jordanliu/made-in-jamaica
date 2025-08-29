@@ -53,7 +53,11 @@
 
 | Name                 | Description | Links | Author |
 | :------------------- | :---------- | :---- | :----- |
-| _No submissions yet_ |             |       |        |
+| Shiny Gauntlet | Chase the Cultist. Reclaim the Shard! | [Website](https://store.steampowered.com/app/454700/Shiny_Gauntlet) | **[Spritewrench Studios](https://spritewrench.com/)** |
+| Grimm & Tonic: Aperitif | Maintaining a healthy Work-Life balance is pretty tricky on a good day but it’s damn near impossible when your boss threatens foreclosure on your mortal existence. As the new bartender at DEAD-END, you’ll make new friends, mix weird drinks, all while navigating Life, Death and everything in between. | [Website](https://store.steampowered.com/app/942020/Grimm__Tonic_Aperitif) | **[Spritewrench Studios](https://spritewrench.com/)** |
+| On the Peril of Parrots | Take control of P.O.L.L.I - the Procedural Operating Layered Linguistic Intelligence - and put your skills to the test with 100+ challenging puzzles! Unravel a mysterious experiment overseen by the brilliant "Scientist", their trusted "Assistant", and the shady "Stakeholder". | [Website](https://store.steampowered.com/app/2137480/On_the_Peril_of_Parrots) | **[Spritewrench Studios](https://spritewrench.com/)** |
+| Sunken Stones | A turn based Puzzle-Strategy game about pirates and cursed treasure. Choose a captain, gather your crew and defeat monsters by strategically placing units on a 5x5 grid. | [Website](https://store.steampowered.com/app/2601810/Sunken_Stones/) | **[Spritewrench Studios](https://spritewrench.com/)** |
+| Super Space Club | Super Space Club is a lo-fi arcade space shooter to chill to. Defend a vibrant galaxy as a club of misfit heroes and battle endless waves of spacecrafts to the tune of atmospheric beats. Outlast your enemies and vibe to the rhythm of the stars. | [Website](https://store.steampowered.com/app/1100290/Super_Space_Club/) | **[GrahamOfLegend](https://www.grahamoflegend.com/)** |
 
 ---
 
