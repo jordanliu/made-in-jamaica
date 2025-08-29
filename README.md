@@ -44,6 +44,7 @@
 | Listja | Jamaica's newest listing platform for properties, vehicles, events, jobs, and more. | [Website](https://listja.com/) | **[@roshaneforde](https://github.com/roshaneforde)** |
 | 1Biz App | The all-in-one business toolkit built in Jamaica to power inventory, sales, deliveries, analytics and invoicing across the Caribbean. | [Website](https://1biz.app/) / [iOS](https://apps.apple.com/us/app/1biz-app/id6748782112) / [Android](https://play.google.com/store/apps/details?id=com.goshowfa.businessapp) | **[@jrolan-hall](https://github.com/jrolan-hall)** |
 | Joyful AI Journal | AI-powered journal app that supports mental well-being through personalized insights, emotion recognition, and CBT-based reflections, helping users navigate life's challenges with daily motivation and support. | [Website](https://www.getjoyfulapp.com/) | **[@jd-alexander](https://github.com/jd-alexander)** |
+| ShopYahso | ShopYahso makes shopping easy, affordable, and reliable. Whether you’re looking for everyday essentials, unique local products, or trending items, you can browse a wide range of sellers in one place. With secure payments, fast delivery, and customer support, you can shop with confidence and convenience. | [Website](https://shopyahso.com) | **[@osoobe](https://github.com/osoobe)** |
 
 
 
