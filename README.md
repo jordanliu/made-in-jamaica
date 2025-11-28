@@ -48,7 +48,7 @@
 | Jamaica Breaches | The Jamaican security logbook thats recording security breaches, data leaks, hacks and scams taking place in Jamaica. | [Website](https://www.jamaicabreaches.com/) | **[@everonegraham](https://github.com/everonegraham)** |
 | Recallie AI       | Recallie is the Duolingo for learning anything – generate full courses from your notes, PDFs, photos, or videos with flashcards, quizzes, and podcasts.          | [IOS](https://apps.apple.com/us/app/recallie-ai-flashcards-quiz/id6752792734) | **[@shanoysinc](https://github.com/shanoysinc)**  |
 | Rovelist          | Rovelist is a habit tracker that helps you build consistent routines and stay disciplined with simple daily tracking. | [iOS](https://apps.apple.com/us/app/habit-tracker-rovelist/id6468539586?itsct=apps_box_badge&itscg=30200) | **[@shanoysinc](https://github.com/shanoysinc)**   
-
+| PropertyEyeJA          | PropertyEyeJA is a real estate analytics tool for Jamaican residential properties. You can use it to get key insights into real estate trends on a regional or country-wide scale. | [Website](https://propertyeyeja.com) | **[@jordan-barrett-jm](https://github.com/jordan-barrett-jm)**   
 
 
 ---
