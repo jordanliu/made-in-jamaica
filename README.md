@@ -49,7 +49,8 @@
 | Recallie AI       | Recallie is the Duolingo for learning anything – generate full courses from your notes, PDFs, photos, or videos with flashcards, quizzes, and podcasts.          | [IOS](https://apps.apple.com/us/app/recallie-ai-flashcards-quiz/id6752792734) | **[@shanoysinc](https://github.com/shanoysinc)**  |
 | Rovelist          | Rovelist is a habit tracker that helps you build consistent routines and stay disciplined with simple daily tracking. | [iOS](https://apps.apple.com/us/app/habit-tracker-rovelist/id6468539586?itsct=apps_box_badge&itscg=30200) | **[@shanoysinc](https://github.com/shanoysinc)**   |
 | JamPack'd Care Packages | JamPack'd is a Jamaican care package service that ships snacks, drinks, seasonings, and more worldwide. The platform serves the diaspora and anyone craving a taste of home, offering curated bundles, individual items, and fast delivery options. | [Website](https://www.jampackd.store/) / [iOS](https://apps.apple.com/us/app/jampackd/id6755335553) | **[@paulrsmithjnr](https://github.com/paulrsmithjnr)** |
-
+| Jamaica Traffic Ticket Dashboard          | Look up and manage traffic tickets in Jamaica. Built with the official Jamaica Traffic Ticket Lookup API for secure and reliable access to your traffic violation records. | [Website](https://traffic-jm.netlify.app/) / [GitHub](https://github.com/Oluwasetemi/traffic) | **[@oluwasetemi](https://oluwasetemi.dev)**   |
+| PropertyEyeJA          | PropertyEyeJA is a real estate analytics tool for Jamaican residential properties. You can use it to get key insights into real estate trends on a regional or country-wide scale. | [Website](https://propertyeyeja.com) | **[@jordan-barrett-jm](https://github.com/jordan-barrett-jm)**   |
 
 
 ---
