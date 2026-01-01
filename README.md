@@ -64,6 +64,7 @@
 | On the Peril of Parrots | Take control of P.O.L.L.I - the Procedural Operating Layered Linguistic Intelligence - and put your skills to the test with 100+ challenging puzzles! Unravel a mysterious experiment overseen by the brilliant "Scientist", their trusted "Assistant", and the shady "Stakeholder". | [Website](https://store.steampowered.com/app/2137480/On_the_Peril_of_Parrots) | **[Spritewrench Studios](https://spritewrench.com/)** |
 | Sunken Stones | A turn based Puzzle-Strategy game about pirates and cursed treasure. Choose a captain, gather your crew and defeat monsters by strategically placing units on a 5x5 grid. | [Website](https://store.steampowered.com/app/2601810/Sunken_Stones/) | **[Spritewrench Studios](https://spritewrench.com/)** |
 | Super Space Club | Super Space Club is a lo-fi arcade space shooter to chill to. Defend a vibrant galaxy as a club of misfit heroes and battle endless waves of spacecrafts to the tune of atmospheric beats. Outlast your enemies and vibe to the rhythm of the stars. | [Website](https://store.steampowered.com/app/1100290/Super_Space_Club/) | **[GrahamOfLegend](https://www.grahamoflegend.com/)** |
+| Athletic Games | Athletic Games is a track & field–themed sports game where you create, train, and compete with custom athletes. Sprint, hurdle, and relay your way to victory in tournaments and multiplayer races. | [Website](https://playathleticgames.com/) | **[Josh-Tim Allen](https://joshtimallen.com/)** |
 
 ---
 
