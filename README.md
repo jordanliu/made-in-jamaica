@@ -53,7 +53,7 @@
 | Jamaica Traffic Ticket Dashboard          | Look up and manage traffic tickets in Jamaica. Built with the official Jamaica Traffic Ticket Lookup API for secure and reliable access to your traffic violation records. | [Website](https://traffic-jm.netlify.app/) / [GitHub](https://github.com/Oluwasetemi/traffic) | **[@oluwasetemi](https://oluwasetemi.dev)**   |
 | PropertyEyeJA          | PropertyEyeJA is a real estate analytics tool for Jamaican residential properties. You can use it to get key insights into real estate trends on a regional or country-wide scale. | [Website](https://propertyeyeja.com) | **[@jordan-barrett-jm](https://github.com/jordan-barrett-jm)**   |
 | Jamaica Loan Calculator          | A comprehensive loan comparison platform for car and mortgage loans across Jamaican banks. | [Website](https://jamaicaloancalculator.com/) | **[@Kevonia](https://github.com/Kevonia)**   |
-| QRTick.com | an e-ticketing platform designed especially suitable for theatre events in Jamaica. It enables organizers to sell digital tickets online, accept secure payments, provide easy access and check-ins via digital tickets, and monitor sales. | [Website](https://qrtick.com) | **[@pigeonflight](https://x.com/pigeonflight)** |
+| QRTick | an e-ticketing platform especially suitable for theatre events in Jamaica. It enables organizers to sell digital tickets online, accept secure payments, provide easy access and check-ins via digital tickets, and monitor sales. | [Website](https://qrtick.com) | **[@pigeonflight](https://x.com/pigeonflight)** |
 
 ---
 
